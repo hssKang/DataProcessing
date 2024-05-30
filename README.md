@@ -1,8 +1,8 @@
 # DataProcessing
 ## Data Exploration
-Download all the preprocessing folders and
+Download all the preprocessing folders and\n
 Perform Data expansion from cmd to python data_exploration.py
 
 ## Data preprocessing
-### Download all the preprocessing folders and
-### Perform Data expansion from cmd to python preprocess.py (normalization type)
+Download all the preprocessing folders and\n
+Perform Data expansion from cmd to python preprocess.py (normalization type)
